@@ -1,8 +1,6 @@
 # Big-Data-Analytics
 Big Data Analytics and Advanced Big Data Analytics Homework Assignments and Code
 
-This is the code for the Big Data Analytics and Advanced Big Data Analytics Course at Columbia University. 
-
 Big Data Analytics
 * Homework 1: Data Store & Processing - Pig, HBase, Hive and Oozie
 * Homework 2: Recommendation, Clustering and Classification
